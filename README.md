@@ -46,7 +46,11 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AidenKim923&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AidenKim923&hide_border=true&theme=dark&show_icons=true" />
+		
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenKim923&layout=compact&theme=buefy&hide_border=true" /></a>
+
+<br>
 <hr />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aidenkim923)](https://solved.ac/aidenkim923)
