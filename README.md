@@ -1,8 +1,4 @@
 <p align="center">
-	<img src="pics/header.png">
-</p>
-
-<p align="center">
 	<a href="https://www.instagram.com/mimdingdong/">
 		<img src="https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
