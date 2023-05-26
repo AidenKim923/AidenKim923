@@ -50,6 +50,8 @@
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenKim923&layout=compact&theme=buefy&hide_border=true" /></a>
 
+<a href="https://opgc.me/#/users/aidenkim923" target="_blank"><img src="https://api.opgc.me/githubs/users/aidenkim923/tag/?theme=basic" /></a>
+
 <br>
 <hr />
 
