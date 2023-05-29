@@ -38,21 +38,4 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Mac](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=macos)&nbsp;
 
-<hr />
-
-## 📈 Statistics
-
-<br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AidenKim923&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AidenKim923&hide_border=true&theme=dark&show_icons=true" />
-		
-</p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenKim923&layout=compact&theme=buefy&hide_border=true" /></a>
-
-<a href="https://opgc.me/#/users/aidenkim923" target="_blank"><img src="https://api.opgc.me/githubs/users/aidenkim923/tag/?theme=basic" /></a>
-
-<br>
-<hr />
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aidenkim923)](https://solved.ac/aidenkim923)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aidenkim923)](https://solved.ac/aidenkim923) -->
