@@ -2,9 +2,9 @@
 <!-- 	<a href="https://www.instagram.com/mimdingdong/">
 		<img src="https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a> -->
-  <a href="https://velog.io/@devaiden">
+<!--   <a href="https://velog.io/@devaiden">
 		<img src="https://img.shields.io/badge/velog-330F63?style=for-the-badge&logo=velog&logoColor=white" />
-	</a>
+	</a> -->
 	<a href="mailto:devaiden923@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
