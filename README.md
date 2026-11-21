@@ -3,6 +3,8 @@
 
 > **"플레이어에게 몰입감 있는 경험을 제공하는 게임 클라이언트 개발자 김민성입니다."**
 
+팀 프로젝트 총괄, 멀티플레이와 시스템 개발, 기획과 디자인 직군을 위한 툴 제작과 소통을 맡고 있습니다.
+
 
 
 
@@ -14,6 +16,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+![Mirror](https://img.shields.io/badge/Mirror-326CE5?style=flat)
 
 
 ### AI Tools
@@ -34,10 +37,12 @@
 
 | 프로젝트 / 시연 | 주요 구현 내용 & 담당 파트 | 스택 |
 | :---: | :--- | :---: |
-| [**신시 (Shinshi)**](https://github.com/inha-2026-gamedevelop/shinshi)<br>1~4인 협동 액션 RPG · Private | • **캐릭터 성장·동기화**: 경험치 저장과 서버 권위 성장·전투 결과 동기화 구현<br>• **전투 피드백·HUD**: 레벨업·경험치 HUD 및 전투 미터를 마을·던전 씬에 연결<br>• **보스·서버 연동**: 월백 워프 패턴 서버 연결 및 하드 출정 조건 검증 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Mirror](https://img.shields.io/badge/Mirror-326CE5?style=flat)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| [**Sheepy: The Last Re:wind**](https://github.com/inha-2026-gamedevelop/sheepy)| • **보스 전투 FSM 구현**: 4단계 페이즈 변환 및 패턴 로직 개발<br>• **시간 시스템**: 플레이어 동선 및 커맨드 패턴 기반 리와인드 및 플레이어 기반 분신 재생<br> |![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)|
-| [**크레이지 아케이드 모작**](https://github.com/AidenKim923/CrazyArcade)<br><br>| • **WinAPI**: Unity Engine 방식으로 구성 <br>• **C++ IOCP**: sqlite db를 활용한 회원가입 및 룸 기반 IOCP 서버 |![C++ WinAPI](https://img.shields.io/badge/C%2B%2B_WinAPI-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![IOCP Server](https://img.shields.io/badge/IOCP_Server-0078D6?style=flat&logo=windows&logoColor=white)|
-| [**TheSecretOfLightHouse**](https://github.com/TheSecretOfLightHouse/TheSecretOfLightHouse) | • **AX(AI Transformation) 지원**: 팀 공통 AI 작업 지침·스킬 구성 및 작업 브리프·검증·인수인계 프로세스 정비<br>• **협업 문서화**: 기획·기술 문서 구조화 및 담당 영역·코딩·커밋/PR 기준 정리 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)<br>![Codex][codex-badge] |
+| [**DIGETHER**](https://github.com/inha-SquareOne/DIGETHER)<br>1~4인 협동 굴착 호러 (Unreal Engine 5.8.4, 팀 Square One) | - **팀 프로젝트 총괄**: 기획, 아트, 개발 파트 사이의 소통을 맡고 GitHub 협업 흐름과 문서 구조 정리<br>- **멀티플레이와 시스템 담당**: 멀티플레이 구조와 게임 시스템 설계 및 구현<br>- **기획과 디자이너용 툴 제작**: 아이템 데이터 편집, 스폰 확률 계산, 룸 검증, CSV 가져오기 등을 담은 Unreal Editor 개발 도구 모음과 번역 시트 파이프라인 구축 | ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [**신시 (Shinshi)**](https://github.com/inha-2026-gamedevelop/shinshi)<br>1~4인 협동 액션 RPG (Private) | - **캐릭터 성장과 동기화**: 경험치 저장과 서버 권위 성장 및 전투 결과 동기화 구현<br>- **전투 피드백과 HUD**: 레벨업, 경험치 HUD 및 전투 미터를 마을과 던전 씬에 연결<br>- **보스와 서버 연동**: 월백 워프 패턴 서버 연결 및 하드 출정 조건 검증 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Mirror](https://img.shields.io/badge/Mirror-326CE5?style=flat)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| [**그믐 (晦)**](https://github.com/inha-2026-gamedevelop/gemeum)<br>3인 협동 로그라이크 액션 RPG (Unity 6) | - **네트워크와 전투 담당**: Mirror 기반 멀티플레이 환경에서 패링 판정 동기화 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Mirror](https://img.shields.io/badge/Mirror-326CE5?style=flat) |
+| [**Sheepy: The Last Re:wind**](https://github.com/inha-2026-gamedevelop/sheepy) | - **보스 전투 FSM 구현**: 4단계 페이즈 변환 및 패턴 로직 개발<br>- **시간 시스템**: 플레이어 동선 및 커맨드 패턴 기반 리와인드 및 플레이어 기반 분신 재생 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
+| [**크레이지 아케이드 모작**](https://github.com/AidenKim923/CrazyArcade) | - **WinAPI**: Unity Engine 방식으로 구성<br>- **C++ IOCP**: sqlite db를 활용한 회원가입 및 룸 기반 IOCP 서버 | ![C++ WinAPI](https://img.shields.io/badge/C%2B%2B_WinAPI-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![IOCP Server](https://img.shields.io/badge/IOCP_Server-0078D6?style=flat&logo=windows&logoColor=white) |
+| [**TheSecretOfLightHouse**](https://github.com/TheSecretOfLightHouse/TheSecretOfLightHouse) | - **AX(AI Transformation) 지원**: 팀 공통 AI 작업 지침과 스킬 구성, 작업 브리프, 검증, 인수인계 프로세스 정비<br>- **협업 문서화**: 기획 및 기술 문서 구조화, 담당 영역, 코딩, 커밋, PR 기준 정리 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)<br>![Codex][codex-badge] |
 
 
 
@@ -45,6 +50,7 @@
 
 
 ## 🎯 Current Interest
+- **AI 활용:** 어떻게 하면 AI를 더 잘 사용할 수 있을지에 흥미가 많음. 작업 지침, 스킬, 검증과 인수인계 절차를 팀 개발에 맞게 다듬는 방법 연구
 - **Cinematic Camera:** 컷씬과 실시간 플레이 간 자연스러운 카메라 블렌딩(Camera Blending) 및 Framing 기법 연구
 - **Boss Combat Feedback:** 플레이어의 몰입감을 극대화하는 타격감 연출(카메라, 진동, 사운드, 프레임 제어)
 
