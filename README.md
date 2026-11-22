@@ -49,6 +49,17 @@
 
 
 
+## 🌐 Open Source Projects
+
+
+| 프로젝트 | 설명 | 스택 |
+| :---: | :--- | :---: |
+| [**AnimBridge**](https://github.com/AidenKim923/AnimBridge)<br>Unity ↔ Unreal 애니메이션 브리지 (Open Source, MIT) | - **오픈소스 애니메이션 변환 툴**: 패키지를 드래그 앤 드롭해 클립을 미리 보고 선택한 애니메이션만 원본 추출하거나 FBX로 베이크<br>- **Windows 로컬 실행**: Unity와 Unreal Engine 사이의 애니메이션 이동 과정을 간소화 | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [**Mocapture**](https://github.com/AidenKim923/Mocapture)<br>영상 기반 모션 캡처 에디터 (Open Source) | - **로컬 우선 모션 캡처 에디터**: 영상을 편집 가능한 3D 모션으로 변환하고 Unity, Unreal 애니메이션으로 내보내기 지원 (Windows)<br>- **공개 예정**: 인식 능력이 충분히 향상되면 추후 공개 | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)<br>![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)<br>![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white) |
+
+
+
+
 ## 🎯 Current Interest
 - **AI 활용:** 어떻게 하면 AI를 더 잘 사용할 수 있을지에 흥미가 많음. 작업 지침, 스킬, 검증과 인수인계 절차를 팀 개발에 맞게 다듬는 방법 연구
 - **Cinematic Camera:** 컷씬과 실시간 플레이 간 자연스러운 카메라 블렌딩(Camera Blending) 및 Framing 기법 연구
