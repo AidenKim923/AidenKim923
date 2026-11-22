@@ -1,7 +1,7 @@
-# 🎮 Hi, I'm Aiden | Junior Game Client Developer
+# 🎮 Hi, I'm siyan | Junior Game Client Developer
 
 
-팀 프로젝트 총괄, 멀티플레이와 시스템 개발, 기획과 디자인 직군을 위한 툴 제작과 소통을 맡고 있습니다.
+I lead team projects, build multiplayer and gameplay systems, and create tools and communication workflows for design and art teammates.
 
 
 
@@ -37,38 +37,34 @@
 
 
 
-## 🕹️ Featured Game Projects
-
-
-| 프로젝트 / 시연 | 주요 구현 내용 & 담당 파트 | 스택 |
-| :---: | :--- | :---: |
-| [**DIGETHER**](https://github.com/inha-SquareOne/DIGETHER)<br>1~4인 협동 굴착 호러 (Unreal Engine 5.8.4, 팀 Square One) | - **팀 프로젝트 총괄**: 기획, 아트, 개발 파트 사이의 소통을 맡고 GitHub 협업 흐름과 문서 구조 정리<br>- **멀티플레이와 시스템 담당**: 멀티플레이 구조와 게임 시스템 설계 및 구현<br>- **기획과 디자이너용 툴 제작**: 아이템 데이터 편집, 스폰 확률 계산, 룸 검증, CSV 가져오기 등을 담은 Unreal Editor 개발 도구 모음과 번역 시트 파이프라인 구축 | ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [**신시 (Shinshi)**](https://github.com/inha-2026-gamedevelop/shinshi)<br>1~4인 협동 액션 RPG (Private) | - **캐릭터 성장과 동기화**: 경험치 저장과 서버 권위 성장 및 전투 결과 동기화 구현<br>- **전투 피드백과 HUD**: 레벨업, 경험치 HUD 및 전투 미터를 마을과 던전 씬에 연결<br>- **보스와 서버 연동**: 월백 워프 패턴 서버 연결 및 하드 출정 조건 검증 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Mirror](https://img.shields.io/badge/Mirror-326CE5?style=flat)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| [**그믐 (晦)**](https://github.com/inha-2026-gamedevelop/gemeum)<br>3인 협동 로그라이크 액션 RPG (Unity 6) | - **네트워크와 전투 담당**: Mirror 기반 멀티플레이 환경에서 패링 판정 동기화 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Mirror](https://img.shields.io/badge/Mirror-326CE5?style=flat) |
-| [**Sheepy: The Last Re:wind**](https://github.com/inha-2026-gamedevelop/sheepy) | - **보스 전투 FSM 구현**: 4단계 페이즈 변환 및 패턴 로직 개발<br>- **시간 시스템**: 플레이어 동선 및 커맨드 패턴 기반 리와인드 및 플레이어 기반 분신 재생 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
-| [**크레이지 아케이드 모작**](https://github.com/AidenKim923/CrazyArcade) | - **WinAPI**: Unity Engine 방식으로 구성<br>- **C++ IOCP**: sqlite db를 활용한 회원가입 및 룸 기반 IOCP 서버 | ![C++ WinAPI](https://img.shields.io/badge/C%2B%2B_WinAPI-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![IOCP Server](https://img.shields.io/badge/IOCP_Server-0078D6?style=flat&logo=windows&logoColor=white) |
-| [**TheSecretOfLightHouse**](https://github.com/TheSecretOfLightHouse/TheSecretOfLightHouse) | - **AX(AI Transformation) 지원**: 팀 공통 AI 작업 지침과 스킬 구성, 작업 브리프, 검증, 인수인계 프로세스 정비<br>- **협업 문서화**: 기획 및 기술 문서 구조화, 담당 영역, 코딩, 커밋, PR 기준 정리 | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)<br>![Codex][codex-badge] |
-
-
-
-
-
-
 ## 🌐 Open Source Projects
 
 
-| 프로젝트 | 설명 | 스택 |
+| Project | Description | Stack |
 | :---: | :--- | :---: |
-| [**AnimBridge**](https://github.com/AidenKim923/AnimBridge)<br>Unity ↔ Unreal 애니메이션 브리지 (Open Source, MIT) | - **오픈소스 애니메이션 변환 툴**: 패키지를 드래그 앤 드롭해 클립을 미리 보고 선택한 애니메이션만 원본 추출하거나 FBX로 베이크<br>- **Windows 로컬 실행**: Unity와 Unreal Engine 사이의 애니메이션 이동 과정을 간소화 | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [**Mocapture**](https://github.com/AidenKim923/Mocapture)<br>영상 기반 모션 캡처 에디터 (Open Source) | - **로컬 우선 모션 캡처 에디터**: 영상을 편집 가능한 3D 모션으로 변환하고 Unity, Unreal 애니메이션으로 내보내기 지원 (Windows)<br>- **공개 예정**: 인식 능력이 충분히 향상되면 추후 공개 | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)<br>![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)<br>![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white) |
+| [**AnimBridge**](https://github.com/AidenKim923/AnimBridge)<br>Unity ↔ Unreal animation bridge (Open Source, MIT) | - **Open-source animation converter**: Drag and drop packages, preview clips, then extract originals or bake only the selected animations to FBX<br>- **Runs locally on Windows**: Simplifies moving animations between Unity and Unreal Engine | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [**Mocapture**](https://github.com/AidenKim923/Mocapture)<br>Video-based motion capture editor (Open Source) | - **Local-first mocap editor**: Converts video into editable 3D motion and exports to Unity and Unreal animations (Windows)<br>- **Coming soon**: Will be released once recognition quality improves enough | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)<br>![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)<br>![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white) |
 
+
+
+## 🕹️ Featured Game Projects
+
+
+| Project | Key Contributions & Role | Stack |
+| :---: | :--- | :---: |
+| [**DIGETHER**](https://github.com/inha-SquareOne/DIGETHER)<br>1–4 player co-op digging horror (Unreal Engine 5.8.4, Team Square One, Private) | - **Team project lead**: Coordinated communication between design, art, and engineering, and organized the GitHub collaboration flow and documentation structure<br>- **Multiplayer & systems**: Designed and implemented the multiplayer architecture and game systems<br>- **Tools for designers**: Built an Unreal Editor toolset (item data editing, spawn probability calculation, room validation, CSV import) and a translation sheet pipeline | ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [**Shinshi**](https://github.com/inha-2026-gamedevelop/shinshi)<br>1–4 player co-op action RPG (Private) | - **Character progression & sync**: Implemented XP persistence, server-authoritative progression, and combat result synchronization<br>- **Combat feedback & HUD**: Connected the level-up and XP HUD and combat meter to the village and dungeon scenes<br>- **Boss & server integration**: Connected the Wolbaek warp pattern to the server and validated hard-mode expedition conditions | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Mirror](https://img.shields.io/badge/Mirror-326CE5?style=flat)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| [**Gemeum (晦)**](https://github.com/inha-2026-gamedevelop/gemeum)<br>3-player co-op roguelike action RPG (Unity 6) | - **Networking & combat**: Synchronized parry detection in a Mirror-based multiplayer environment | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Mirror](https://img.shields.io/badge/Mirror-326CE5?style=flat) |
+| [**Sheepy: The Last Re:wind**](https://github.com/inha-2026-gamedevelop/sheepy) | - **Boss battle FSM**: Implemented 4-phase transitions and attack pattern logic<br>- **Time system**: Built rewind based on player movement and the Command pattern, plus player-based clone replay | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
+| [**Crazy Arcade Clone**](https://github.com/AidenKim923/CrazyArcade) | - **WinAPI**: Structured in the style of the Unity Engine<br>- **C++ IOCP**: Room-based IOCP server with sign-up backed by a SQLite database | ![C++ WinAPI](https://img.shields.io/badge/C%2B%2B_WinAPI-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![IOCP Server](https://img.shields.io/badge/IOCP_Server-0078D6?style=flat&logo=windows&logoColor=white) |
+| [**TheSecretOfLightHouse**](https://github.com/TheSecretOfLightHouse/TheSecretOfLightHouse) | - **AX (AI Transformation) support**: Set up shared team AI guidelines and skills, and refined the work brief, verification, and handoff processes<br>- **Collaboration docs**: Structured design and technical docs and defined ownership areas, coding, commit, and PR conventions | ![Unity](https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white)<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)<br>![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)<br>![Codex][codex-badge] |
 
 
 
 ## 🎯 Current Interest
-- **AI 활용:** 어떻게 하면 AI를 더 잘 사용할 수 있을지에 흥미가 많음. 작업 지침, 스킬, 검증과 인수인계 절차를 팀 개발에 맞게 다듬는 방법 연구
-- **Cinematic Camera:** 컷씬과 실시간 플레이 간 자연스러운 카메라 블렌딩(Camera Blending) 및 Framing 기법 연구
-- **Boss Combat Feedback:** 플레이어의 몰입감을 극대화하는 타격감 연출(카메라, 진동, 사운드, 프레임 제어)
+- **AI Usage:** Very interested in how to use AI more effectively. Researching how to tailor work guidelines, skills, verification, and handoff procedures to team development
+- **Cinematic Camera:** Researching natural camera blending and framing techniques between cutscenes and real-time gameplay
+- **Boss Combat Feedback:** Crafting impactful hit feedback (camera, vibration, sound, frame control) to maximize player immersion
 
 
 
